@@ -1,1 +1,7 @@
-kuhgkuygyhi
+Brīvkoda (open source) programmatūra ir tāda, kuras avota kods ir publiski pieejams un ikviens drīkst to lasīt, mainīt un izplatīt saskaņā ar licences noteikumiem.
+
+Atšķirība no slēgtā koda
+
+Brīvkods: atklāts, modificējams, kopienas veidots.
+
+Slēgtais kods: avots nav pieejams, to drīkst mainīt tikai īpašnieks, lietotājs ir atkarīgs no izstrādātāja.
