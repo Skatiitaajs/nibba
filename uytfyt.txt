@@ -5,3 +5,5 @@ Atšķirība no slēgtā koda
 Brīvkods: atklāts, modificējams, kopienas veidots.
 
 Slēgtais kods: avots nav pieejams, to drīkst mainīt tikai īpašnieks, lietotājs ir atkarīgs no izstrādātāja.
+
+es gribu mājās
