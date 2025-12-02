@@ -1,1 +1,19 @@
-sad
+
+Brīvkoda licences (Open Source Licenses) ir juridiski līgumi, kas nosaka, kā var izmantot, mainīt un izplatīt programmatūras pirmkodu. Tās garantē lietotājiem četras brīvības.
+
+1. Atļaujošās (Permissive) Licences
+
+Šīs ir visdraudzīgākās licences. Tās atļauj gandrīz visu, tostarp koda izmantošanu un iekļaušanu slēgtā koda (proprietary) projektos. Galvenā prasība ir saglabāt licences un autortiesību paziņojumu.
+
+Licence Raksturojums. Praktiskais Piemērs.
+MIT Licence Vienkāršākā. 
+Īsa, sniedz maksimālu brīvību. Ideāli, ja vēlas, lai jūsu kodu izmantotu pēc iespējas plašāk, ieskaitot komerciālus un slēgta koda projektus. Populāra JavaScript bibliotēka, piemēram, jQuery vai React (līdz 2017. gadam), izmanto MIT, lai nodrošinātu maksimālu ieviešanu.
+Apache Licence 2.0 Formālāka nekā MIT. Tā ir atļaujoša, bet piedāvā labāku aizsardzību pret patentu strīdiem un nodrošina skaidru patentu licences piešķiršanu. Lielāki, uzņēmumu atbalstīti projekti, piemēram, Apache Hadoop vai Android koda daļas.
+
+2. Kopīgojošās (Copyleft) Licences
+
+Šīs ir "vīrusa" licences, kas nodrošina, ka brīvība tiek saglabāta. Ja jūs izmantojat šādu kodu un veicat izmaiņas, jums ir jāizlaiž arī jūsu izmaiņu pirmkods brīvi ar to pašu licenci.
+
+Licence Raksturojums. Praktiskais Piemērs.
+GNU GPL v3 (Strong Copyleft) Visstingrākā. Ja jūs izplatāt programmu, kas satur GPL kodu, programmas avots ir jādara pieejams visiem, kas saņem programmu. Linux kodols un GNU/Emacs izmanto GPL, nodrošinot, ka uzlabojumi nāk atpakaļ atvērtā koda kopienai.
+GNU LGPL (Weak Copyleft) Mīkstināta GPL versija. Tā ļauj brīvkoda bibliotēku statiski vai dinamiski sasaistīt ar slēgta koda programmu, nepieprasot atvērt visu programmas pirmkodu. Bibliotēkas, piemēram, GNU Lesser General Public License (LGPL) bibliotēkas, ko var izmantot slēgta koda lietojumprogrammās, bet ja bibliotēka pati tiek modificēta, modifikācijas jāpublicē ar LGPL.
